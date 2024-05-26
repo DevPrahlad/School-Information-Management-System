@@ -1,0 +1,36 @@
+[25-May-2024 15:13:26 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home3/ourwebpr/public_html/deekshaatkcmt/user_dash.php on line 323
+[25-May-2024 15:13:26 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home3/ourwebpr/public_html/deekshaatkcmt/user_dash.php on line 323
+[25-May-2024 15:13:26 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home3/ourwebpr/public_html/deekshaatkcmt/user_dash.php on line 323
+[25-May-2024 15:13:31 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home3/ourwebpr/public_html/deekshaatkcmt/given_allotments.php on line 279
+[25-May-2024 15:13:31 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home3/ourwebpr/public_html/deekshaatkcmt/given_allotments.php on line 279
+[25-May-2024 15:13:31 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home3/ourwebpr/public_html/deekshaatkcmt/given_allotments.php on line 279
+[25-May-2024 15:13:32 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home3/ourwebpr/public_html/deekshaatkcmt/completed_allotments.php on line 274
+[25-May-2024 15:13:32 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home3/ourwebpr/public_html/deekshaatkcmt/completed_allotments.php on line 274
+[25-May-2024 15:13:32 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home3/ourwebpr/public_html/deekshaatkcmt/completed_allotments.php on line 274
+[25-May-2024 15:13:34 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home3/ourwebpr/public_html/deekshaatkcmt/pending_allotments.php on line 248
+[25-May-2024 15:13:34 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home3/ourwebpr/public_html/deekshaatkcmt/pending_allotments.php on line 248
+[25-May-2024 15:13:34 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home3/ourwebpr/public_html/deekshaatkcmt/pending_allotments.php on line 248
+[25-May-2024 15:13:49 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home3/ourwebpr/public_html/deekshaatkcmt/admin.php on line 359
+[25-May-2024 15:13:49 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home3/ourwebpr/public_html/deekshaatkcmt/admin.php on line 359
+[25-May-2024 15:13:49 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home3/ourwebpr/public_html/deekshaatkcmt/admin.php on line 359
+[25-May-2024 15:13:54 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home3/ourwebpr/public_html/deekshaatkcmt/regi_list.php on line 339
+[25-May-2024 15:13:54 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home3/ourwebpr/public_html/deekshaatkcmt/regi_list.php on line 339
+[25-May-2024 15:13:54 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home3/ourwebpr/public_html/deekshaatkcmt/regi_list.php on line 339
+[25-May-2024 15:13:57 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home3/ourwebpr/public_html/deekshaatkcmt/admin_data_report.php on line 461
+[25-May-2024 15:13:57 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home3/ourwebpr/public_html/deekshaatkcmt/admin_data_report.php on line 461
+[25-May-2024 15:13:57 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home3/ourwebpr/public_html/deekshaatkcmt/admin_data_report.php on line 461
+[25-May-2024 15:14:01 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home3/ourwebpr/public_html/deekshaatkcmt/total_allotment.php on line 490
+[25-May-2024 15:14:01 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home3/ourwebpr/public_html/deekshaatkcmt/total_allotment.php on line 490
+[25-May-2024 15:14:01 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home3/ourwebpr/public_html/deekshaatkcmt/total_allotment.php on line 490
+[25-May-2024 15:14:15 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home3/ourwebpr/public_html/deekshaatkcmt/admin_data_report.php on line 461
+[25-May-2024 15:14:15 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home3/ourwebpr/public_html/deekshaatkcmt/admin_data_report.php on line 461
+[25-May-2024 15:14:15 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home3/ourwebpr/public_html/deekshaatkcmt/admin_data_report.php on line 461
+[25-May-2024 15:14:31 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home3/ourwebpr/public_html/deekshaatkcmt/admin_data_report.php on line 461
+[25-May-2024 15:14:31 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home3/ourwebpr/public_html/deekshaatkcmt/admin_data_report.php on line 461
+[25-May-2024 15:14:31 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home3/ourwebpr/public_html/deekshaatkcmt/admin_data_report.php on line 461
+[25-May-2024 15:15:14 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home3/ourwebpr/public_html/deekshaatkcmt/admin_data_report.php on line 461
+[25-May-2024 15:15:14 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home3/ourwebpr/public_html/deekshaatkcmt/admin_data_report.php on line 461
+[25-May-2024 15:15:14 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home3/ourwebpr/public_html/deekshaatkcmt/admin_data_report.php on line 461
+[25-May-2024 15:15:17 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home3/ourwebpr/public_html/deekshaatkcmt/admin_data_report.php on line 461
+[25-May-2024 15:15:17 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home3/ourwebpr/public_html/deekshaatkcmt/admin_data_report.php on line 461
+[25-May-2024 15:15:17 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home3/ourwebpr/public_html/deekshaatkcmt/admin_data_report.php on line 461
