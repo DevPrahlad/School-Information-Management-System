@@ -14,8 +14,8 @@ if (isset($_POST['downloadCSV'])) {
     // Connect to the database
     include 'database.php';
     // Check connection
-    if ($conn->connect_error) {
-        die("Connection failed: " . $conn->connect_error);
+    if ($con->connect_error) {
+        die("Connection failed: " . $con->connect_error);
     }
 
     // Query to get the total number of students and faculty name for each school in the selected year range
@@ -26,7 +26,7 @@ if (isset($_POST['downloadCSV'])) {
               GROUP BY schools, year";
 
     // Use prepared statement to prevent SQL injection
-    $stmt = $conn->prepare($query);
+    $stmt = $con->prepare($query);
     $stmt->bind_param("ss", $fromYear, $toYear);
     $stmt->execute();
     $result = $stmt->get_result();
@@ -40,7 +40,7 @@ if (isset($_POST['downloadCSV'])) {
 
     // Close the prepared statement and the database connection
     $stmt->close();
-    $conn->close();
+    $con->close();
 
     // Set headers for CSV download
     header('Content-Type: text/csv');
